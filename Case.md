@@ -6,7 +6,7 @@ My Photos is an android application to store photo in cloud for free and safe. Y
 ## Login
 ![Login](https://lh3.googleusercontent.com/pw/AM-JKLVgRCpuJIpPrR_gy3utBQag4VMCMPvSMcmhG_hvGuoRhnOthhLkIYryPcqwx8R7QXerl3K2lHCLQW_SdcVRJCUQN6D77CPCXz4VSZCitqoPelHyzmClQShoY7f6YDc_lXPCcnN-0YmJGgwKj1JUv7kK=w321-h649-no)
 
-Use appropriate input type for each fields. Save access token from [Login API](###Login) for uploading report in report page. Show error message if [Login API](###Login) returns error. Save access token from [Login API](###Login) for all API endpoints.  Redirect to login page whenever the access token is expired or API request fails with unauthorized (http status code 401). Show errors from API whenever login request isn't succeed.
+Use appropriate input type for each fields. Show error message if [Login API](###Login) returns error. Save access token from [Login API](###Login) for all API endpoints.  Redirect to login page whenever the access token is expired or API request fails with unauthorized (http status code 401). Show errors from API whenever login request isn't succeed.
 
 ## Register
 ![Register](https://lh3.googleusercontent.com/pw/AM-JKLVpxD4LiHezSxxKtsbBfv-WQ4Y0fCj9IhrpUkSE_4D-UnC8fSA7Y1P8lKtKx3ftJcbBc52eP-SgCJFYktcYF0YVx8xj3SnF35ipK2JJkmk6ftttSl-A720Qx6TbXXaAqhvv9toTcrPTiv-AH4aeHED9=w322-h649-no)
