@@ -189,7 +189,7 @@ http://54.151.137.160/api/v1
   - Request:
   ```curl
   curl -X POST \
-    http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums \
+    http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums \
     -H 'Accept: application/json' \
     -H 'Content-Type: application/json' \
     -H 'cache-control: no-cache' \
@@ -217,7 +217,7 @@ http://54.151.137.160/api/v1
                         "active": false
                     },
                     {
-                        "url": "http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums?page=1",
+                        "url": "http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums?page=1",
                         "label": "1",
                         "active": true
                     },
@@ -227,7 +227,7 @@ http://54.151.137.160/api/v1
                         "active": false
                     }
                 ],
-                "path": "http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums",
+                "path": "http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums",
                 "per_page": 50,
                 "to": 1,
                 "total": 1
@@ -312,7 +312,7 @@ http://54.151.137.160/api/v1
   - Request:
   ```curl
   curl -X POST \
-    http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums \
+    http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/albums \
     -H 'Accept: application/json' \
     -H 'Content-Type: application/json' \
     -H 'cache-control: no-cache' \
@@ -336,7 +336,7 @@ http://54.151.137.160/api/v1
             "size": 1527631,
             "created_at": "2021-10-22T15:51:16.000000Z",
             "updated_at": "2021-10-22T15:51:16.000000Z",
-            "image": "http://localhost:8000/api/v1/photos/51c4f54f-ff81-45c6-b105-74160d2de2ac/image"
+            "image": "http://54.151.137.160/api/v1/photos/51c4f54f-ff81-45c6-b105-74160d2de2ac/image"
         }],
         "meta": {
             "pagination": {
@@ -350,7 +350,7 @@ http://54.151.137.160/api/v1
                         "active": false
                     },
                     {
-                        "url": "http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/photos?page=1",
+                        "url": "http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/photos?page=1",
                         "label": "1",
                         "active": true
                     },
@@ -360,7 +360,7 @@ http://54.151.137.160/api/v1
                         "active": false
                     }
                 ],
-                "path": "http://localhost:8000/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/photos",
+                "path": "http://54.151.137.160/api/v1/users/e3e3c309-b4c2-49ea-8faf-84bee751542b/photos",
                 "per_page": 50,
                 "to": 1,
                 "total": 1
@@ -420,7 +420,7 @@ http://54.151.137.160/api/v1
             "album_id": "f7a167eb-4f48-490b-ad6e-5ce99f8d7f6f",
             "updated_at": "2021-10-25T16:35:47.000000Z",
             "created_at": "2021-10-25T16:35:47.000000Z",
-            "image": "http://localhost:8000/api/v1/photos/9d70fb82-43e0-49d8-8d6d-6ef29ea99f31/image"
+            "image": "http://54.151.137.160/api/v1/photos/9d70fb82-43e0-49d8-8d6d-6ef29ea99f31/image"
         },
         "meta": {
             "version": "1",
