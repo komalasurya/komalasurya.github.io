@@ -1,5 +1,5 @@
 # My Photos
-My Photos is an android application to store photo in cloud for free and safe.
+My Photos is an android application to store photo in cloud for free and safe. You could find it too on [github](https://github.com/komalasurya/komalasurya.github.io/blob/main/Case.md)
 
 # Screen
 
@@ -18,7 +18,7 @@ You can access this menu by click register button on [Login Page](##Login). Use 
 ![Homescreen](https://lh3.googleusercontent.com/pw/AM-JKLWu6lJr5KuEUNA8YzHbUVeF1mltYGvJ5cecktfNT6t75_U3ki5VlafZ_0z3YwnTaBOFNp5-50TfWAWVglXvyL3cOWj4sE6h5QQ_TPx6TscjugeTYEPYrnlixnzU9sYEHLgQ22H8LhbweEdAH0zc7pC7=w348-h649-no)
 
 You can access this page after login or user has logged in before. Page divided into 2 parts, the first one is album list, second one is photos list. Show and animate `upload photo` & `create album` button whenever `+` floating button clicked by user.
-![Button Animation](https://lh3.googleusercontent.com/pw/AM-JKLUOSk9aACZFehpeKLT5rUd6gJ9_MXbcFyr88DbYbR53GPweGTlXgbRQ2qfMTnRbfPLSkM-M95fJWh8D8SwCgRAAnDKPL5Vi4AmeE_QP1pw2f4G9LhsGCgj0j1O8UgSI1Q6lrLntUQNVtOXikMJ3sFQS=w620-h1305-no)
+![Button Animation](https://lh3.googleusercontent.com/pw/AM-JKLWfUlWJNyG0FncFfONXGYah2orxyWz3IChBs5YarQQ5eiy9fKxIl3rCS3RfxHhlovbSKOTv8m9lILm9qcPiDFGnoCoMzTS8D8o5MqPMVY6k8r_neW_Q_lokL36s4gkJM5IJJAMP7N0-f1YVZnxTHjVq=w623-h1314-no)
 
 ### Album list
 Get album list from [Album List API](###AlbumList) Show folder icon and album name beside it.
