@@ -96,6 +96,7 @@ http://54.151.137.160/api/v1
   1. username
   2. Email
   3. password
+  4. password_confirmation
 - Heades:
   1. `Accept` = `application/json`
   2. `Content-Type` = `application/json`    
@@ -109,9 +110,10 @@ http://54.151.137.160/api/v1
     -H 'Content-Type: application/json' \
     -H 'cache-control: no-cache' \
     -d '{
-        "name":"komalasurya2",
-        "email": "komalasurya1@gmail.com",
-        "password":"secret1"
+        "email": "komala.surya.w@hotmail.com",
+        "password": "Secret1!@",
+        "password_confirmation": "Secret1!@",
+        "name": "surya"
     }'
   ```
   - Response:
